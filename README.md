@@ -1,9 +1,7 @@
 # Finger Dance Android Game
 
 Submitted By : Nipun
-
 IIIT Allahabad
-
 B.Tech - Information Technology
 
 ## Steps to Install :
@@ -13,6 +11,7 @@ B.Tech - Information Technology
 4. Run the application and select your smartphone as the device or you can also start an emulator on your system to run the application.
 
 ### OR
+
 1. Download the FingerDance.apk file in the APK folder.
 2. Copy this file in your smartphone's internal storage.
 3. Go to that location and install the FingerDance.apk file in your phone.
