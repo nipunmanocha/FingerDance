@@ -1,7 +1,9 @@
 # Finger Dance Android Game
 
 Submitted By : Nipun
+
 IIIT Allahabad
+
 B.Tech - Information Technology
 
 ## Steps to Install :
